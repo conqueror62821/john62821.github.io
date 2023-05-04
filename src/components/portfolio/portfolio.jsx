@@ -12,22 +12,22 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: "Design and development of a web application dedicated to absence management",
-        github: "https://github.com/John62821",
+        title: "Class Manager uses the multi-user concept of Django where student and teacher are different types of user and have different functionalities. Also adding features like notice, messages, Assignment, adding students to the class etc. requires a lot of Django concepts. Projects like Class Manager is a great choice to practice your Django skills and test yourself.",
+        github: "https://github.com/john62821/classmanager-student-teacher-portal",
         dimo: "hello world",
     },
     {
         id: 2,
         image: IMG2,
-        title: "Creating a Notes Management Web Application",
-        github: "https://github.com/John62821",
+        title: "Restaurant Website using MERN Stack. I uses 1.ReactJS(Frontend) 2.Advance CSS 3.NodeJS(Backend) 4.Vercel 5.Heroku",
+        github: "https://github.com/john62821/restaurant-management-system",
         dimo: "hello world",
     },
     {
         id: 3,
         image: IMG3,
-        title: "Student Management Desktop Application",
-        github: "https://github.com/John62821",
+        title: "Online School Management System",
+        github: "https://github.com/John62821/SchoolManagementSystem-Mandakh",
         dimo: "hello world",
     },
     {
@@ -41,7 +41,7 @@ const data = [
         id: 5,
         image: IMG5,
         title: "TodoList App",
-        github: "https://github.com/John62821",
+        github: "https://github.com/John62821/ReactNative-application",
         dimo: "hello world",
     },
     // {
